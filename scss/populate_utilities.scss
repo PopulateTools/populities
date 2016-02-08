@@ -3,7 +3,7 @@
   * CSS and JS utilities by Populate
   *
   * https://github.com/PopulateTools/populities
-  * Version: 0.1 
+  * Version: 0.2
   * 
   * TODO: Create and index, document...
   * 
@@ -24,6 +24,7 @@
   width: 48%;
   float: left;
   margin: 0 4% 0 0;
+  text-align: center;
 }
 .col-2-2 {
   float: right; 
@@ -63,10 +64,11 @@
 .fixed {
   position: fixed;
 }
-.invisible {
-  visibility: hidden;
+.soft {
+  opacity: .5;
 }
 
+ 
 
 /*
 
